@@ -1,5 +1,5 @@
 ## Digital CV
-![Image](https://img.in.th/images/3353184fd6f8aedcec54931c90c88fa4.jpg)  
+![Image](https://img.in.th/images/2b0e26118cbf03cee53e33611afbe07c.jpg)  
 Name : Siwakorn Nitkitsomboon < Top > / Age : 18 / Gender : male
 
 ### Education
