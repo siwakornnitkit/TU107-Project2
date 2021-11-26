@@ -3,7 +3,8 @@
 Name : Siwakorn Nitkitsomboon < Top > / Age : 18 / Gender : male
 
 ### Education
-    Bachelor of Science (Technology) major in data science and innovation Thammasat university
+    Bachelor of Science (Technology) major in data science and innovation 
+    Thammasat university
     High School Science-Math Phuketwittayalai School
 
 ### Professional skills
@@ -24,5 +25,6 @@ Name : Siwakorn Nitkitsomboon < Top > / Age : 18 / Gender : male
     Email : topnitkit@gmail.com  
 
 ### Work experience and awards
-    Ever participated in the True Lab Startup Sandbox Volume 2 and had passed the exchange student exam.
-    When I was in high school, I was a provincial table tennis player won two year award.
+    Ever participated in the True Lab Startup Sandbox Volume 2 and had passed 
+    the exchange student exam. When I was in high school, I was a provincial 
+    table tennis player won two year award.
