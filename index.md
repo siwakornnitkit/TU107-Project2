@@ -1,6 +1,7 @@
 ## Digital CV
 ![Image](https://img.in.th/images/344f1c08cc4f3ad9fa024ba10c66f680.jpg)  
-Name : Siwakorn Nitkitsomboon < Top > / Age : 18 / Gender : male
+Name : Siwakorn Nitkitsomboon < 6424650395 >   
+Age : 18 / Gender : male
 
 ### Education
     Bachelor of Science (Technology) major in data science and innovation 
