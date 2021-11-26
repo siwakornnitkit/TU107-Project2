@@ -4,9 +4,9 @@ Name : Siwakorn Nitkitsomboon < 6424650395 >
 Age : 18 / Gender : male
 
 ### Education
-    Bachelor of Science (Technology) major in data science and innovation 
+    - Bachelor of Science (Technology) major in data science and innovation 
     Thammasat university
-    High School Science-Math Phuketwittayalai School
+    - High School Science-Math Phuketwittayalai School
 
 ### Professional skills
     - Maketing  
